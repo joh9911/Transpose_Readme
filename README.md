@@ -1,3 +1,4 @@
+# Outline
 I usually enjoy listening to music by editing the pitch of the sounds. For this, the music files need to be locally stored, and an application capable of adjusting the pitch must be used.
 
 The idea of being able to edit and listen to music in real-time without downloading the tracks led me to develop this application.
@@ -6,7 +7,7 @@ The idea of being able to edit and listen to music in real-time without download
 
 
 
-
+## Blog
 
 [Blog](https://joh9911-programming-note.tistory.com/category/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9D%8C%EC%A0%95%20%EC%A1%B0%EC%A0%88%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
 
@@ -14,6 +15,8 @@ The idea of being able to edit and listen to music in real-time without download
 I’ve been organazing the knowledge I gained during developing, the obstacles I encountered, and the processes I went through to resolve them on my Blog
 
 
+
+## PlayStore
 
 [PlayStore](https://play.google.com/store/apps/details?id=com.myFile.transpose&hl=En)
 
