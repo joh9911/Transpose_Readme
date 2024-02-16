@@ -1,4 +1,6 @@
-## Launch Screen
+
+
+# Launch Screen
 
 <table>
     <tr>
@@ -52,18 +54,18 @@
 <table>
     <tr>
         <th>Control Via Notifications</th>
-        <th>Creating Playlist</th>
-        <th>Adding Videos To Playlist</th>
+        <th>Youtube Shared Link</th>
+        <th>Local File Browsing</th>
     </tr>
     <tr>
         <td valign="top">
-            <img src="https://github.com/joh9911/Transpose_Readme/blob/main/assets/searchandplay-ezgif.com-video-to-gif-converter.gif"  width="100%" />
+            <img src="https://github.com/joh9911/Transpose_Readme/blob/main/assets/notification-ezgif.com-video-to-gif-converter.gif"  width="100%" />
         </td>
         <td valign="top">
-            <img src="https://github.com/joh9911/Transpose_Readme/blob/main/assets/createplaylist-ezgif.com-video-to-gif-converter.gif"  width="100%"/>
+            <img src="https://github.com/joh9911/Transpose_Readme/blob/main/assets/youtubeSharedLink-ezgif.com-video-to-gif-converter%20(1).gif"  width="100%"/>
         </td>
         <td valign="top">
-            <img src="https://github.com/joh9911/Transpose_Readme/blob/main/assets/addvideotoplaylist-ezgif.com-video-to-gif-converter.gif"  width="100%"/>
+            <img src="https://github.com/joh9911/Transpose_Readme/blob/main/assets/localfile-ezgif.com-video-to-gif-converter.gif"  width="100%"/>
         </td>
     </tr>
 </table>
